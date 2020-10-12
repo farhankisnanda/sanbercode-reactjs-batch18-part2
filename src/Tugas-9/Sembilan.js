@@ -9,7 +9,7 @@ class Sembilan extends React.Component {
           <h2>Nama Pelanggan</h2>
           <h2 style={{marginTop:'200px',marginLeft:'-65px'}}>Daftar Item</h2>
         </form>
-        <form>
+       <form>
         <input style={{boxSizing:'border-box',width:'30%', margin:'25px 0px',marginLeft:'-400px'}}></input>
         <form>
         <input style={{boxSizing:'border-box',width:'20px', margin:'25px 0px',marginLeft:'-700px',marginTop:'-100px'}}></input>
